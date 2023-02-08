@@ -1,0 +1,16 @@
+id: IF91F2D23
+default_language: en
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-08 15:27:40.535958
+last_modified: 2023-02-08 15:27:40.536080
+source_metadata:
+  title: 'PP: Vajracchedikā Prajñāpāramitā'
+  language: en
+bases:
+  B664:
+    base_file: B664.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
